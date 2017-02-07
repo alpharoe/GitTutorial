@@ -1,7 +1,7 @@
 # GitTutorial
 For training
 --------------------------------------------------------------------
-Create a folder named AlphaRoe under root C:\
+1. Create a folder named AlphaRoe under root C:\
 
 2. Create a folder named Repo under AlphaRoe. This is the place where all AlphaRoe’s projects
 
