@@ -7,4 +7,4 @@ For training
 
 3. Go to try.github.io, follow the steps but rather using the tutorial folder, create a local folder named GitTutorial under Repo.
 
-4. Use upstream at https://
+4. Use upstream at https://github.com/alpharoe/GitTutorial.git
